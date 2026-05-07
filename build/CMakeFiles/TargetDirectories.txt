@@ -1,0 +1,3 @@
+/home/ts/AI-workspace/hexedit/build/CMakeFiles/SNWriter.dir
+/home/ts/AI-workspace/hexedit/build/CMakeFiles/edit_cache.dir
+/home/ts/AI-workspace/hexedit/build/CMakeFiles/rebuild_cache.dir
